@@ -101,7 +101,8 @@ def load(df_2022, df_2022q1_edited, df_2022q2_edited, df_2022q3_edited, df_2022q
 #---------------Workflow-------------------------#
 @ flow(log_prints=True, name='Prefect-Workflow')
 def workflow():
-    download() and xlsx_to_csv()
+    download()
+    xlsx_to_csv()
     df_2022q1, df_2022q2, df_2022q3, df_2022q4 = dataframe()
     df_2022, df_2022q1_edited, df_2022q2_edited, df_2022q3_edited, df_2022q4_edited = data_cleaning(df_2022q1, df_2022q2, df_2022q3, df_2022q4)
     load(df_2022, df_2022q1_edited, df_2022q2_edited, df_2022q3_edited, df_2022q4_edited)
