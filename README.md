@@ -16,5 +16,5 @@ python ./data-processing.py
 ```
 
 ### Prefect Cloud Workflow
-![](https://github.com/Mregojos/Batch-Data-Processing/blob/main/images/images.png)
+![](https://github.com/Mregojos/Batch-Data-Processing/blob/main/images/image.png)
 > It runs sucessfully!
