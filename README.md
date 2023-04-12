@@ -15,6 +15,6 @@ pip install -U -r requirements.txt
 python ./data-processing.py
 ```
 
-### Prefect Workflow
+### Prefect Cloud Workflow
 ![](https://github.com/Mregojos/Batch-Data-Processing/blob/main/images/images.png)
 > It runs sucessfully!
