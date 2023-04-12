@@ -5,6 +5,7 @@
 
 ### Objetive
 * To process and clean the data (Canada's Approved LMIA of 2022 dataset)
+* To build a simple data pipeline
 
 ```sh
 # Login to Prefect Cloud and create a workflow and token
