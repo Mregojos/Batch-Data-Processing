@@ -9,7 +9,7 @@ prefect cloud login
 # use your token
 
 
-# To run data.processing.py
+# To run data-processing.py
 python ./data-processing.py
 ```
 
