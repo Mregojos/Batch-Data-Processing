@@ -2,6 +2,10 @@
 
 * Tech Stack: Python, Pandas, Prefect, Prefect Cloud
 * Data: Canada's Approved LMIA of 2022 dataset
+
+### Objetive
+* To process and clean the data (Canada's Approved LMIA of 2022 dataset)
+
 ```sh
 # Login to Prefect Cloud and create a workflow and token
 # In CLI
