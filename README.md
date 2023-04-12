@@ -6,12 +6,12 @@
 # Login to Prefect Cloud and create a workflow and token
 # In CLI
 prefect cloud login
-# use your token
+# Use your token
 
 # Install requirements.txt
 pip install -U -r requirements.txt
 
-# To run data-processing.py
+# Run data-processing.py
 python ./data-processing.py
 ```
 
