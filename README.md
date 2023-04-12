@@ -8,6 +8,8 @@
 prefect cloud login
 # use your token
 
+# Install requirements.txt
+pip install -U -r requirements.txt
 
 # To run data-processing.py
 python ./data-processing.py
