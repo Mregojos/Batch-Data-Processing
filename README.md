@@ -16,3 +16,5 @@ python ./data-processing.py
 ```
 
 ### Prefect Workflow
+![](https://github.com/Mregojos/Batch-Data-Processing/blob/main/images/images.png)
+> It runs sucessfully!
