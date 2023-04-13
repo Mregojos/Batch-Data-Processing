@@ -1,12 +1,16 @@
 # Batch Data Processing with Orchestration
 
-* Tech Stack: Python, Pandas, Prefect, Prefect Cloud
-* Data: Canada TFWP's Positive LMIA Employers List of 2022
-
-### Objetive
+## Objetive
 * To process and clean the data (Canada TFWP's Positive LMIA Employers List of 2022)
 * To build a simple data pipeline
 
+## Data
+* Canada TFWP's Positive LMIA Employers List of 2022
+
+## Tech Stack
+* Python, Pandas, Prefect, Prefect Cloud
+
+## Tasks
 ```sh
 # Login to Prefect Cloud and create a workflow and token
 # In CLI
